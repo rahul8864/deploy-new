@@ -1,0 +1,2 @@
+*{margin:0;padding:0;box-sizing:border-box}body,html{background-color:#101427;color:#e2e2e2;overflow-x:hidden;font-family:"Montserrat",sans-serif;font-size:24px}h1,h4{margin:.5em}progress{border-radius:7px;width:100vw;height:22px;position:absolute;bottom:0;box-shadow:1px 1px 4px rgba(0,0,0,.2)}progress::-webkit-progress-value{background-color:red}::-moz-progress-bar,::-moz-progress-value{background-color:red}::-moz-progress-bar{border-radius:0}:indeterminate::-moz-progress-bar{width:0}
+/*# sourceMappingURL=main.e1a8232e.chunk.css.map */
